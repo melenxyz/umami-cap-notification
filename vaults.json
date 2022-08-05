@@ -5,7 +5,7 @@
         "color": "0x3E73C4",
         "decimals": 6,
         "logo": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
-        "previous_amount": "176480684405",
+        "previous_amount": "0",
         "threshold": 50000,
         "title": "USDC Vault",
         "website": "https://umami.finance/app/vaults/glp-tcr-usdc-pool"
