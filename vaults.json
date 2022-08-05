@@ -1,0 +1,13 @@
+{
+    "USDC": {
+        "RPC": "https://arb-mainnet.g.alchemy.com/v2/NVwxFKofzwyyzzHTPG313ZRur1B4L-kh",
+        "address": "0x2e2153fd13459eba1f277ab9acd624f045d676ce",
+        "color": "0x3E73C4",
+        "decimals": 6,
+        "logo": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png",
+        "previous_amount": "176480684405",
+        "threshold": 50000,
+        "title": "USDC Vault",
+        "website": "https://umami.finance/app/vaults/glp-tcr-usdc-pool"
+    }
+}
